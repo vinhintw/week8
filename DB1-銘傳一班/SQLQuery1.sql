@@ -1,0 +1,1 @@
+﻿Select * from [2A] where ((Name =N'陳大頭') AND (ClassId <=6))
